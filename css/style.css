@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+    font-family:Arial, serif;
+    padding: 5px 25px;
+    font-size: 18px;
+    margin : 0;
+    color : #742121
+    
+}
+
+
+h1{
+    font-family: Courier New, serif;
+    font-size: 50px
+}
+
+.couleurfond{
+    color:green
+}
+
+.flotte{
+    
+float:right
+}
